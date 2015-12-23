@@ -4,6 +4,4 @@ draft = true
 title = "about"
 
 +++
-#About this blog
-
-This is an experiment to work with Hugo, the website framework.
+This is an experiment to work with Hugo -the website framework-, together with VIM editing, Github Pages and HTML/CSS design.
