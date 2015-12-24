@@ -13,15 +13,20 @@ I started to build my personal website in **Github Pages** earlier this year. As
 
 ## Hugo.
 
-**Hugo** is, quote, "a website framework developed in **Go** language by [insert spwtv]". It allows you to create a blog with posts written in **markdown**, with several given themes you can customize.
+**Hugo** is, quote, 
 
-First of all, I love markdown. And I was learning how to use **VIM** as a power user, so I considered this the perfect opportunity to create content and learn at the same time.
+>...a general-purpose website framework, (...) a static site generator.
+
+It is developed in **Go** language by [Steve Francia](https://github.com/spf13). 
+It allows you to create a blog with posts written in **markdown**, with several given [themes](https://github.com/spf13/hugoThemes) you can customize.
+
+First of all, I love markdown. And I was learning [how to use **VIM** as a power user](https://www.eduonix.com/courses/Software-Development/Learn-VI-and-VIM-the-Free-Text-Editor), so I considered this the perfect opportunity to create content and learn at the same time.
 
 ## Creation process. 
 
-All the posts are created using **VIM** in **iTerm 2**. Then, **Hugo** uses *blackfriday* [INSERT BLACKFRIDAY] for converting MD posts into HTML, and build the entire website.
+All the posts are created using **VIM** in **iTerm 2**. Then, **Hugo** uses [*blackfriday*](https://github.com/russross/blackfriday) for converting MD posts into HTML, and build the entire website.
 Then, the content is pushed using **Github** (or **git**) into my Github Pages repo.
 
 ## Making it easier.
 
-I consider Hugo an interesting framework, although the tutorial in their website [INSERT LINK] is not very intuitive. That is why next post will explain all the process to work with Hugo and Github to build a personal blog from scratch.
+I consider Hugo an very interesting framework. The [tutorial](https://gohugo.io/overview/introduction) in their website is very exhaustive, although I considerd it a little bit too complex. That is why in the next post will explain all the steps needed to work with Hugo and Github to build a personal blog from scratch.
