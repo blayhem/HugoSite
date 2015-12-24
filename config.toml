@@ -17,7 +17,7 @@ description = ""
 
   # Navigation links
 	home = ""
-	about = "http://blayhem.github.io/about/index.html"
+	about = ""
 	subscribe = ""
 	# Pagination links
 	olderPosts = ""
