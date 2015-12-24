@@ -13,11 +13,11 @@ description = ""
   description = "Hugo testing"
   email = ""
   twitter = "blayhem"
-  enableRSS = true
+  enableRSS = false
 
   # Navigation links
 	home = ""
-	about = ""
+	about = "http://blayhem.github.io/about/index.html"
 	subscribe = ""
 	# Pagination links
 	olderPosts = ""
@@ -36,7 +36,6 @@ description = ""
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/"
+    twitter  = "https://www.twitter.com/blayhem"
     facebook = "https://www.facebook.com/"
-    github   = "https://www.github.com/"
-    dribble  = "https://www.dribbble.com/"
+    github   = "https://www.github.com/blayhem"

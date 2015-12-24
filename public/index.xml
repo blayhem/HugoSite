@@ -6,18 +6,32 @@
     <description>Recent content on dfr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2015 00:19:39 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 24 Dec 2015 11:24:27 +0100</lastBuildDate>
     <atom:link href="http://blayhem.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://blayhem.github.io/about/</link>
+      <pubDate>Thu, 24 Dec 2015 11:24:27 +0100</pubDate>
+      
+      <guid>http://blayhem.github.io/about/</guid>
+      <description>&lt;p&gt;This is an experiment to work with Hugo -the website framework-, together with VIM editing, Github Pages and HTML/CSS design.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hello World</title>
       <link>http://blayhem.github.io/post/Hello%20World/</link>
-      <pubDate>Thu, 24 Dec 2015 00:19:39 +0100</pubDate>
+      <pubDate>Thu, 24 Dec 2015 11:23:07 +0100</pubDate>
       
       <guid>http://blayhem.github.io/post/Hello%20World/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Hello, friend&amp;rdquo;
-#First attempt of blogging.
-###Yay!&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&amp;ldquo;Hello, friend&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;first-attempt-of-blogging:fd81d86acd9cb7b045b15aacc0f7b73d&#34;&gt;First attempt of blogging.&lt;/h1&gt;
+
+&lt;h3 id=&#34;yay:fd81d86acd9cb7b045b15aacc0f7b73d&#34;&gt;Yay!&lt;/h3&gt;
 </description>
     </item>
     
