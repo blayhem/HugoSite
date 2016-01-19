@@ -7,6 +7,8 @@ title = "Visualizing Data with Pynet"
 
 # My first work visualizing Twitter data with Python and Gephi
 
+#### Edit: here's the [link](https://github.com/blayhem/pynet) to my work.
+
 About a week ago I read [this](https://www.reddit.com/r/dataisbeautiful/comments/3y5t1t/i_visualized_my_instagram_connections_oc/) reddit post, where user [Trevor Prater](https://github.com/trevorprater) did this curious job about data visualization with his Instagram network:
 
 ![Instagram connections](http://i.imgur.com/t6JShXt.png "Trevor Prater Instagram Connections")
@@ -40,13 +42,17 @@ There, I colored the nodes by degree and rearranged them.
 
 ## Final result
 
-![Round graph_final result](https://raw.githubusercontent.com/blayhem/Pynet/master/curved.png "Trevor Prater Instagram Connections")
+![Round graph_final result](/static/pynet/curved.png "Round graph_final result")
 (Round edges)
 
-![Straight graph_final result](https://raw.githubusercontent.com/blayhem/Pynet/master/wo%20labels.png "Trevor Prater Instagram Connections")
+![Straight graph_final result](/static/pynet/wo labels.png "Straight graph_final result")
 (Straight edges)
 
-There are three main "clouds" of connected nodes, representing my friends in Zaragoza (left), my UC3M friends (upper right), and a few followers from Ciudad Real (lower right).
+There are three main "clouds" of connected nodes, representing my friends in Zaragoza (left), my UC3M friends (upper right), and a few from Ciudad Real (lower right).
+
+#### Edit2: I ran the script again with my GF's Twitter account (~720 followers). The results were even better:
+
+![Straight graph_final result](/static/pynet/gold.png "Straight graph_final result")
 
 #### Other links I found useful
 
